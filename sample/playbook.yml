@@ -1,0 +1,4 @@
+- hosts: sandbox.tsukuba-bunko.org
+  tasks:
+    - name: "hello"
+      debug:
